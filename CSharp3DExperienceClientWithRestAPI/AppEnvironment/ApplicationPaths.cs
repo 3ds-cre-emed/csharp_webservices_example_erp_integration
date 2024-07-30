@@ -8,7 +8,7 @@ namespace CSharp3DExperienceClientWithRestAPI.AppEnvironment
         public String Desktop => Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
 
         /* External System Database Path */
-        public String DBFolder => "E:\\my3DExperience\\Development\\ExternalSystemIntegrations\\MyExternalSystem\\public\\db";
+        public String DBFolder => Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
 
         /* External System DB Name */
         public String DBName => "myData.json";
