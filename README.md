@@ -5,3 +5,6 @@
   - Check 3DEXPERIENCE urls and write your cloud tenants.
   - Check NuGet packages.
   - Click Run & Test
+
+**Example Video**
+https://github.com/user-attachments/assets/4f5ea6e6-eab4-4c2b-95ec-5c7598135609
