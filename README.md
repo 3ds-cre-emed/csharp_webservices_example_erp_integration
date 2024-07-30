@@ -7,7 +7,7 @@
   - Click Run & Test
 
 **Example Video**
-[![Watch the video](https://github.com/user-attachments/assets/4f5ea6e6-eab4-4c2b-95ec-5c7598135609)]
+[![Watch the video](https://github.com/user-attachments/assets/4f5ea6e6-eab4-4c2b-95ec-5c7598135609)](https://github.com/user-attachments/assets/4f5ea6e6-eab4-4c2b-95ec-5c7598135609)
 
 [![Watch the video](https://github.com/user-attachments/assets/4f5ea6e6-eab4-4c2b-95ec-5c7598135609)
 
